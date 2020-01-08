@@ -160,11 +160,13 @@ RhythSOM_plot plots to images that show the waveform clusterization.
 First image (on the left) shows the mean waveform in black along with its standard deviation in gray. If the waveletParams input is given, the wavelet of this mean waveform is plotted on the background.
 Second image (on the right) shows the unfolded self-organized map. Each colored area belongs to a different cluster, and areas near on the map indicate similarity. Over each colored area, the mean waveform is again plotted.
 
-![alt text](https://github.com/acnavasolive/RhythSOM/blob/master/images/RhythSOM_plot_output.png)
-
 ```
 RhythSOM_plot(Data, sMap, clusData, clussMap, waveletParams, dirSave)
 ```
+Output images given by RhythSOM_plot.m.
+
+![alt text](https://github.com/acnavasolive/RhythSOM/blob/master/images/RhythSOM_plot_output.png)
+
 
 ### RhythSOM_plotTaggedEvents.m
 
