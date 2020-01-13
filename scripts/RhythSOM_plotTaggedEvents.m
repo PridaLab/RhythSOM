@@ -74,7 +74,7 @@ function RhythSOM_plotTaggedEvents(Data, Tags, TagsID, sMap, ClusData, clussMap,
 %
 %    http://www.cis.hut.fi/projects/somtoolbox/
 %                          
-% LCN - E.F Rodríguez Sebastián 2019
+% LCN - E.F Rodriguez Sebastian 2019
 
 
     if nargin < 8 || isempty(showNonClus)
