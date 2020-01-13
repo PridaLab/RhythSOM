@@ -182,3 +182,7 @@ the figure shows:
 ```
 RhythSOM_plotTaggedEvents(Data, Tags, TagsID, sMap, ClusData, clussMap, BMUs, showNonClus, waveletParams)
 ```
+
+Output images given by RhythSOM_plotTaggedEvents.m.
+
+![alt text](https://github.com/acnavasolive/RhythSOM/blob/master/images/RhythSOM_plotTaggedEvents_output.png)
