@@ -118,7 +118,7 @@ There are three parameters that can set different options:
 
 The way to use this is:
 ```
-clusData, [clussMap, sMap] = RhythmSOM_Classifier(Data, [minPCvar, probClus, autoClus, numRep, waveletParams, imageDir])
+clusData, [clussMap, sMap] = RhythSOM_Classifier(Data, [minPCvar, probClus, autoClus, numRep, waveletParams, imageDir])
 ```
 where variables inside brakets [] are optional inputs or outputs.
 
