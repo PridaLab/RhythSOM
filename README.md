@@ -50,9 +50,9 @@ For instance, data input could be `N=5.000` 50ms-long sharp wave ripples from CA
 * Figure 1: *figure*. Saved as 'RhythSOM_meanWaveforms.png' on `dirSave`; if `dirSave` input not given, in the current folder.
 * Figure 2: *figure*. Saved as 'RhythSOM_map.png' on `dirSave`; if `dirSave` input not given, in the current folder.
 
-![Example of *RhythSOM_meanWaveforms* figure](https://github.com/PridaLab/RhythSOM/images/RhythSOM_meanWaveforms.png)
+![Example of *RhythSOM_meanWaveforms* figure](https://github.com/PridaLab/RhythSOM/blob/master/images/RhythSOM_meanWaveforms.png)
 
-![Example of *RhythSOM_map* figure](https://github.com/PridaLab/RhythSOM/images/RhythSOM_map.png)
+![Example of *RhythSOM_map* figure](https://github.com/PridaLab/RhythSOM/blob/master/images/RhythSOM_map.png)
 
 ## Examples of usage
 
